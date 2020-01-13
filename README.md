@@ -15,3 +15,7 @@ With the dependencies installed, you have to up the docker containers with
 <code> docker-compose up </code>
 
 To restore the database, the sql file is available on this repository with the yml's files to import.
+
+[backup.sql](./backup.sql)
+
+[yml's file](./config-drupal-docker-localhost_8000-2020-01-13-17-59.tar.gz)
